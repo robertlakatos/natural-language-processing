@@ -1,8 +1,8 @@
 # Natural Language Processing based on course of CS 224 of Stanford University
 
-## Contents
+## Table of contents
 
-1. [Introduction and Word Vectors](http://web.stanford.edu/class/cs224n/)
+1. [Introduction and Word Vectors](https://github.com/robertlakatos/natural-language-processing/blob/master/Introduction%20and%20Word%20Vectors/README.md)
 2. Gensim word vectors example
 3. Word Vectors 2 and Word Senses 
 4. Python review session
@@ -27,4 +27,5 @@
 23. Analysis and Interpretability of Neural NLP 
 
 ## References
+
 [Stanford CS 224N](http://web.stanford.edu/class/cs224n/)
