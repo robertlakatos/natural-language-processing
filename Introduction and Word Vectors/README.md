@@ -4,8 +4,10 @@
 
 * [Lecture](https://github.com/robertlakatos/natural-language-processing/blob/master/Introduction%20and%20Word%20Vectors/cs224n-2020-lecture01-wordvecs1.pdf)
 * [Note](https://github.com/robertlakatos/natural-language-processing/blob/master/Introduction%20and%20Word%20Vectors/cs224n-2019-notes01-wordvecs1.pdf)
+* [Video](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2&t=0s)
 
 ## Exercise
+* [Assignment 1: Exploring Word Vectors](https://github.com/robertlakatos/natural-language-processing/blob/master/Introduction%20and%20Word%20Vectors/assigment_1.ipynb)
 * [Gensim word vectors example](http://web.stanford.edu/class/cs224n/materials/Gensim%20word%20vector%20visualization.html)
 
 ## Suggested Readings
