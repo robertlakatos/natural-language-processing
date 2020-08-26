@@ -28,4 +28,8 @@
 
 ## References
 
-[Stanford CS 224N](http://web.stanford.edu/class/cs224n/)
+* [Stanford CS 224N](http://web.stanford.edu/class/cs224n/)
+* [keras](https://keras.io/)
+* [pytorch](https://pytorch.org/)
+* [tensorflow](https://www.tensorflow.org/)
+* [python](https://www.python.org/)
