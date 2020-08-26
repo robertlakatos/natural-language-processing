@@ -3,6 +3,7 @@
 ## Introduction and Word Vectors
 
 [Lecture](https://github.com/robertlakatos/natural-language-processing/blob/master/Introduction%20and%20Word%20Vectors/cs224n-2020-lecture01-wordvecs1.pdf)
+
 [Note](https://github.com/robertlakatos/natural-language-processing/blob/master/Introduction%20and%20Word%20Vectors/cs224n-2019-notes01-wordvecs1.pdf)
 
 ## Exercise
