@@ -3,7 +3,7 @@
 ## Table of contents
 
 1. [Introduction and Word Vectors](https://github.com/robertlakatos/natural-language-processing/blob/master/Introduction%20and%20Word%20Vectors/README.md)
-2. Word Vectors 2 and Word Senses 
+2. [Word Vectors 2 and Word Senses] 
 3. Python review session
 4. Word Window Classification, Neural Networks, and PyTorch 
 5. Matrix Calculus and Backpropagation 
