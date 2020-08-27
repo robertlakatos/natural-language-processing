@@ -6,7 +6,7 @@
 2. [Word Vectors 2 and Word Senses](https://github.com/robertlakatos/natural-language-processing/tree/master/Word%20Vectors%202%20and%20Word%20Senses/README.md)
 3. [Python review session](https://github.com/robertlakatos/natural-language-processing/tree/master/Python%20review%20session/README.md)
 4. [Word Window Classification, Neural Networks](https://github.com/robertlakatos/natural-language-processing/blob/master/WWC-NN/README.md)
-5. [Matrix Calculus and Backpropagation]()
+5. [Matrix Calculus and Backpropagation](https://github.com/robertlakatos/natural-language-processing/blob/master/Matrix%20Calculus%20and%20Backpropagation/README.md)
 6. [Linguistic Structure: Dependency Parsing]()
 7. [The probability of a sentence? Recurrent Neural Networks and Language Models]()
 8. [Vanishing Gradients and Fancy RNNs]()

@@ -2,7 +2,7 @@
 
 ## Materials
 
-* [Lecture]()
+* [Lecture](https://github.com/robertlakatos/natural-language-processing/blob/master/Matrix%20Calculus%20and%20Backpropagation/cs224n-2020-lecture04-neuralnets.pdf)
 * [Note]()
 * [Video](https://www.youtube.com/watch?v=yLYHDSv-288&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=4)
 
