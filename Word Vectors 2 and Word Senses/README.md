@@ -16,3 +16,5 @@
 * [A Latent Variable Model Approach to PMI-based Word Embeddings](https://www.aclweb.org/anthology/Q16-1028.pdf)
 * [Linear Algebraic Structure of Word Senses, with Applications to Polysemy](https://transacl.org/ojs/index.php/tacl/article/viewFile/1346/320)
 * [On the Dimensionality of Word Embedding.](https://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding.pdf)
+
+# [BACK TO THE TABLE OF CONTENTS](https://github.com/robertlakatos/natural-language-processing/blob/master/README.md)
