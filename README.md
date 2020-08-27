@@ -3,9 +3,9 @@
 ## Table of contents
 
 1. [Introduction and Word Vectors](https://github.com/robertlakatos/natural-language-processing/blob/master/Introduction%20and%20Word%20Vectors/README.md)
-2. [Word Vectors 2 and Word Senses](https://github.com/robertlakatos/natural-language-processing/tree/master/Word%20Vectors%202%20and%20Word%20Senses)
-3. [Python review session](https://github.com/robertlakatos/natural-language-processing/tree/master/Python%20review%20session)
-4. [Word Window Classification, Neural Networks]
+2. [Word Vectors 2 and Word Senses](https://github.com/robertlakatos/natural-language-processing/tree/master/Word%20Vectors%202%20and%20Word%20Senses/README.md)
+3. [Python review session](https://github.com/robertlakatos/natural-language-processing/tree/master/Python%20review%20session/README.md)
+4. [Word Window Classification, Neural Networks](https://github.com/robertlakatos/natural-language-processing/blob/master/Word%20Vectors%202%20and%20Word%20Senses/README.md)
 5. Matrix Calculus and Backpropagation 
 6. Linguistic Structure: Dependency Parsing 
 7. The probability of a sentence? Recurrent Neural Networks and Language Models
