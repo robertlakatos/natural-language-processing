@@ -2,18 +2,18 @@
 
 ## Materials
 
-* [Lecture]()
-* [Note]() 
+* [Lecture](https://github.com/robertlakatos/natural-language-processing/blob/master/Question%20Answering%20and%20Transformer/cs224n-2020-lecture10-QA.pdf)
+* [Note](https://github.com/robertlakatos/natural-language-processing/blob/master/Question%20Answering%20and%20Transformer/cs224n-2019-notes07-QA.pdf) 
 * [Video](https://www.youtube.com/watch?v=yIdF-17HwSk&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=10)
 
 ## Suggested Readings
 
 * [Project Handout]()
-* [Attention Is All You Need]()
+* [Attention Is All You Need](https://github.com/robertlakatos/natural-language-processing/blob/master/Question%20Answering%20and%20Transformer/1706.03762.pdf)
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [Transformer (Google AI blog post)](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
-* [Layer Normalization]()
-* [Image Transformer]()
-* [Music Transformer: Generating music with long-term structure]()
+* [Layer Normalization](https://github.com/robertlakatos/natural-language-processing/blob/master/Question%20Answering%20and%20Transformer/1607.06450.pdf)
+* [Image Transformer](https://github.com/robertlakatos/natural-language-processing/blob/master/Question%20Answering%20and%20Transformer/1802.05751.pdf)
+* [Music Transformer: Generating music with long-term structure](https://github.com/robertlakatos/natural-language-processing/blob/master/Question%20Answering%20and%20Transformer/1809.04281.pdf)
 
 # [BACK TO THE TABLE OF CONTENTS](https://github.com/robertlakatos/natural-language-processing/blob/master/README.md)

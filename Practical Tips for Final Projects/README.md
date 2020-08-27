@@ -1,9 +1,9 @@
-# Word Window Classification, Neural Networks
+# Practical Tips for Final Projects
 
 ## Materials
 
-* [Lecture]()
-* [Note]()
+* [Lecture](https://github.com/robertlakatos/natural-language-processing/blob/master/Practical%20Tips%20for%20Final%20Projects/cs224n-2020-lecture09-final-projects.pdf)
+* [Note](https://github.com/robertlakatos/natural-language-processing/blob/master/Practical%20Tips%20for%20Final%20Projects/final-project-practical-tips.pdf)
 * [Video](https://www.youtube.com/watch?v=fyqm8fRDgl0&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=9)
 
 ## Assignments
