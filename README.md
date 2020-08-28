@@ -19,10 +19,10 @@
 15.	[Modeling contexts of use: Contextual Representations and Pretraining. ELMo and BERT](https://github.com/robertlakatos/natural-language-processing/blob/master/Contextual%20Representations%20and%20Pretraining%20ELMo%20and%20BERT/README.md)
 16. [Natural Language Generation](https://github.com/robertlakatos/natural-language-processing/blob/master/Natural%20Language%20Generation/README.md)
 17. [Reference in Language and Coreference Resolution](https://github.com/robertlakatos/natural-language-processing/blob/master/Reference%20in%20Language%20and%20Coreference%20Resolution/README.md)
-18. [Fairness and Inclusion in AI]()
+18. [Fairness and Inclusion in AI](https://github.com/robertlakatos/natural-language-processing/blob/master/Fairness%20and%20Inclusion%20in%20AI/README.md)
 19. [Constituency Parsing and Tree Recursive Neural Networks](https://github.com/robertlakatos/natural-language-processing/blob/master/Constituency%20Parsing%20and%20Tree%20Recursive%20Neural%20Networks/README.md)
 20. [HuggingFace]()
-21. [Recent Advances in Low Resource Machine Translation]()
+21. [Recent Advances in Low Resource Machine Translation](https://github.com/robertlakatos/natural-language-processing/blob/master/Recent%20Advances%20in%20Low%20Resource%20Machine%20Translation/README.md)
 22. [Analysis and Interpretability of Neural NLP](https://github.com/robertlakatos/natural-language-processing/blob/master/Analysis%20and%20Interpretability%20of%20Neural%20NLP/README.md) 
 
 ## References
