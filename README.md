@@ -1,4 +1,6 @@
-# Natural Language Processing Based On Course Of CS 224 Of Stanford University
+# Natural Language Processing
+
+The whole content based on Course Of CS 224 Of Stanford University.
 
 ## Table of contents
 
