@@ -6,6 +6,11 @@
 * [Note](https://github.com/robertlakatos/natural-language-processing/blob/master/RNN%20and%20Language%20Models/cs224n-2019-notes05-LM_RNN.pdf) 
 * [Video](https://www.youtube.com/watch?v=iWea12EAu6U&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=6) 
 
+## Assignments
+
+* [Poet](https://github.com/robertlakatos/natural-language-processing/blob/master/RNN%20and%20Language%20Models/poet.ipynb)
+* [Shakespeare](https://github.com/robertlakatos/natural-language-processing/blob/master/RNN%20and%20Language%20Models/shakespeare.ipynb)
+
 ## Suggested Readings
 
 * [N-gram Language Models (textbook chapter)](https://github.com/robertlakatos/natural-language-processing/blob/master/RNN%20and%20Language%20Models/3.pdf)
