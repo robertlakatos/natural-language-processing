@@ -6,9 +6,13 @@
 * [Note](https://github.com/robertlakatos/natural-language-processing/blob/master/Question%20Answering%20and%20Transformer/cs224n-2019-notes07-QA.pdf) 
 * [Video](https://www.youtube.com/watch?v=yIdF-17HwSk&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=10)
 
+## Assignments
+
+* [Text classification with Transformer](https://github.com/robertlakatos/natural-language-processing/blob/master/Question%20Answering%20and%20Transformer/text_classification_with_transformer.ipynb) 
+
 ## Suggested Readings
 
-* [Project Handout]()
+* [Project Handout](https://github.com/robertlakatos/natural-language-processing/blob/master/Practical%20Tips%20for%20Final%20Projects/default-final-project-handout.pdf)
 * [Attention Is All You Need](https://github.com/robertlakatos/natural-language-processing/blob/master/Question%20Answering%20and%20Transformer/1706.03762.pdf)
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [Transformer (Google AI blog post)](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
