@@ -8,6 +8,10 @@
 
 ## Assignments
 
+* [Handout](https://github.com/robertlakatos/natural-language-processing/blob/master/Linguistic%20Structure%20Dependency%20Parsing/a3.pdf)
+* [Understanding Word2Vec](https://github.com/robertlakatos/natural-language-processing/blob/master/Linguistic%20Structure%20Dependency%20Parsing/machine_learning_nn.pdf)
+* [Code](https://github.com/robertlakatos/natural-language-processing/blob/master/Linguistic%20Structure%20Dependency%20Parsing/code)
+
 ## Suggested Readings
 
 * [Incrementality in Deterministic Dependency Parsing](https://github.com/robertlakatos/natural-language-processing/blob/master/Linguistic%20Structure%20Dependency%20Parsing/W04-0308.pdf)
