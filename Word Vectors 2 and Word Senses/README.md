@@ -6,6 +6,11 @@
 * [Note](https://github.com/robertlakatos/natural-language-processing/blob/master/Word%20Vectors%202%20and%20Word%20Senses/cs224n-2019-notes02-wordvecs2.pdf)
 * [Video](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=3&t=0s)
 
+
+## Assignments
+
+* [Sentiment](https://github.com/robertlakatos/natural-language-processing/blob/master/Word%20Vectors%202%20and%20Word%20Senses/sentiment.ipynb)
+
 ## Suggested Readings
 
 * [GloVe: Global Vectors for Word Representation (original GloVe paper)](https://github.com/robertlakatos/natural-language-processing/blob/master/Word%20Vectors%202%20and%20Word%20Senses/glove.pdf)

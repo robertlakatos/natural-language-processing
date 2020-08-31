@@ -9,6 +9,7 @@
 
 ## Assignments
 
+* [Word Window Classification](https://github.com/robertlakatos/natural-language-processing/blob/master/WWC-NN/ww_classifier.ipynb)
 * [Handout](https://github.com/robertlakatos/natural-language-processing/blob/master/WWC-NN/a2.pdf)
 * [Understanding Word2Vec](https://github.com/robertlakatos/natural-language-processing/blob/master/WWC-NN/w2.pdf)
 * [Code](https://github.com/robertlakatos/natural-language-processing/blob/master/WWC-NN/code)
