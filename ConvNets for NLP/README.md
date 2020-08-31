@@ -8,6 +8,10 @@
 
 ## Assignments
 
+* [Handout](https://github.com/robertlakatos/natural-language-processing/blob/master/ConvNets%20for%20NLP/a5_updated.pdf)
+* [Character-based convolutional encoder for NMT](https://github.com/robertlakatos/natural-language-processing/blob/master/ConvNets%20for%20NLP/w5.pdf)
+* [Code](https://github.com/robertlakatos/natural-language-processing/blob/master/ConvNets%20for%20NLP/code)
+
 ## Suggested Readings
 
 * [Convolutional Neural Networks for Sentence Classification](https://github.com/robertlakatos/natural-language-processing/blob/master/ConvNets%20for%20NLP/1408.5882.pdf)

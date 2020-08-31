@@ -4,8 +4,7 @@
 
 * [Lecture](https://github.com/robertlakatos/natural-language-processing/blob/master/Contextual%20Representations%20and%20Pretraining%20ELMo%20and%20BERT/cs224n-2020-lecture14-contextual-representations.pdf)
 * [Video](https://www.youtube.com/watch?v=5vcj8kSwBCY&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=14)
-
-## Assignments
+* [Instructions](https://github.com/robertlakatos/natural-language-processing/blob/master/Contextual%20Representations%20and%20Pretraining%20ELMo%20and%20BERT/project-milestone-instructions.pdf)
 
 ## Suggested Readings
 

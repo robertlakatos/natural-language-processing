@@ -8,6 +8,10 @@
 
 ## Assignments
 
+* [Instructions](https://github.com/robertlakatos/natural-language-processing/blob/master/Practical%20Tips%20for%20Final%20Projects/project-proposal-instructions.pdf)
+* [Handout](https://github.com/robertlakatos/natural-language-processing/blob/master/Practical%20Tips%20for%20Final%20Projects/default-final-project-handout.pdf)
+* [Code](https://github.com/robertlakatos/natural-language-processing/blob/master/Practical%20Tips%20for%20Final%20Projects/code)
+
 ## Suggested Readings
 
 * [Practical Methodology (Deep Learning book chapter)](https://www.deeplearningbook.org/contents/guidelines.html)
