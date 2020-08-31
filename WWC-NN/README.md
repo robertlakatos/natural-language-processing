@@ -9,6 +9,10 @@
 
 ## Assignments
 
+* [Handout](https://github.com/robertlakatos/natural-language-processing/blob/master/WWC-NN/a2.pdf)
+* [Understanding Word2Vec](https://github.com/robertlakatos/natural-language-processing/blob/master/WWC-NN/understanding_word2vec.pdf)
+* [Code](https://github.com/robertlakatos/natural-language-processing/blob/master/WWC-NN/code)
+
 ## Suggested Readings
 
 * [Review of differential calculus](https://github.com/robertlakatos/natural-language-processing/blob/master/WWC-NN/review-differential-calculus.pdf)
