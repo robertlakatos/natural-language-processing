@@ -10,6 +10,10 @@
 
 ## Assignments
 
+* [Handout](https://github.com/robertlakatos/natural-language-processing/blob/master/Linguistic%20Structure%20Dependency%20Parsing/a4.pdf)
+* [Neural Machine Translation with RNNs](https://github.com/robertlakatos/natural-language-processing/blob/master/Linguistic%20Structure%20Dependency%20Parsing/w4.pdf)
+* [Code](https://github.com/robertlakatos/natural-language-processing/blob/master/Linguistic%20Structure%20Dependency%20Parsing/code)
+
 ## Suggested Readings
 
 * [Sequence Modeling: Recurrent and Recursive Neural Nets (Sections 10.3, 10.5, 10.7-10.12)](http://www.deeplearningbook.org/contents/rnn.html)

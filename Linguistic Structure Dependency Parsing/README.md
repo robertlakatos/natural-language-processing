@@ -9,7 +9,7 @@
 ## Assignments
 
 * [Handout](https://github.com/robertlakatos/natural-language-processing/blob/master/Linguistic%20Structure%20Dependency%20Parsing/a3.pdf)
-* [Understanding Word2Vec](https://github.com/robertlakatos/natural-language-processing/blob/master/Linguistic%20Structure%20Dependency%20Parsing/machine_learning_nn.pdf)
+* [Machine Learning & Neural Networks](https://github.com/robertlakatos/natural-language-processing/blob/master/Linguistic%20Structure%20Dependency%20Parsing/w3.pdf)
 * [Code](https://github.com/robertlakatos/natural-language-processing/blob/master/Linguistic%20Structure%20Dependency%20Parsing/code)
 
 ## Suggested Readings

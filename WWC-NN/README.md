@@ -10,7 +10,7 @@
 ## Assignments
 
 * [Handout](https://github.com/robertlakatos/natural-language-processing/blob/master/WWC-NN/a2.pdf)
-* [Understanding Word2Vec](https://github.com/robertlakatos/natural-language-processing/blob/master/WWC-NN/understanding_word2vec.pdf)
+* [Understanding Word2Vec](https://github.com/robertlakatos/natural-language-processing/blob/master/WWC-NN/w2.pdf)
 * [Code](https://github.com/robertlakatos/natural-language-processing/blob/master/WWC-NN/code)
 
 ## Suggested Readings
