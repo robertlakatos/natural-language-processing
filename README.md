@@ -32,7 +32,7 @@ The whole content based on course of CS 224 Of Stanford University.
 * [Stanford CS 224N](http://web.stanford.edu/class/cs224n/)
 * [Stanford CS 224N Videos (2019)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 * [Glove](https://nlp.stanford.edu/projects/glove/)
-* [Natural Language Processing (NLP) Zero to Hero](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
+* [Google Natural Language Processing (NLP) Zero to Hero](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
 * [Huggingface](https://huggingface.co/)
 * [Keras](https://keras.io/)
 * [Pytorch](https://pytorch.org/)
